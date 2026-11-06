@@ -1,6 +1,6 @@
 # Agustin González — Portfolio
 
-Personal portfolio of Agustin González, full stack developer (.NET, Oracle, Angular, React) based in Neuquén, Argentina.
+Personal portfolio of Agustin González, full stack developer (.NET, Oracle, Angular, React) based in Rio Negro, Argentina.
 
 **Live site:** https://agus-ig.github.io/portfolio/
 
